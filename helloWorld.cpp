@@ -1,4 +1,4 @@
- Copyright[2022] Kaitlyn Ip 
+ Copyright[2022]Kaitlyn Ip
 #include <iostream>
 
     int
