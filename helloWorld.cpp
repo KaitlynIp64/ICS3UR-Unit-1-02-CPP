@@ -4,8 +4,7 @@
 // Created on September 2022
 #include <iostream>
 
-    int
-    main() {
+    int main() {
     std::cout << "Hello World!\n";
 
     std::cout << "\nDone.\n";
