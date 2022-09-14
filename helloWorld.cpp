@@ -1,4 +1,7 @@
-Copyright[2022]Kaitlyn Ip
+// Copyright (c) 2022 Kaitlyn Ip All rights reserved
+//
+// Created by Kaitlyn Ip
+// Created on September 2022
 #include <iostream>
 
     int
