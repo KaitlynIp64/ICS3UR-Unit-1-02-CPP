@@ -5,5 +5,5 @@ Copyright[2022]Kaitlyn Ip
     main() {
     std::cout << "Hello World!\n";
 
-    std::cout << "\nDone.";
+    std::cout << "\nDone.\n";
 }
